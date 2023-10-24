@@ -1,0 +1,9 @@
+jupyter
+pandas
+geopandas
+shapely
+pydantic
+sqlalchemy
+psycopg2
+# xml
+beautifulsoup4
