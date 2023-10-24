@@ -4,6 +4,6 @@ geopandas
 shapely
 pydantic
 sqlalchemy
-psycopg2
+psycopg2-binary
 # xml
 beautifulsoup4

@@ -21,6 +21,6 @@ pyenv local 3.10.12
 python -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
-pip install -r requirements_dev.txt
+pip install -r requirements.txt
 source .venv/bin/activate
 ```
