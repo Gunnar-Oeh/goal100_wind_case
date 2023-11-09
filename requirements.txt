@@ -1,3 +1,4 @@
+requests
 jupyter
 open-mastr
 supabase-py
