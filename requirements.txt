@@ -8,6 +8,6 @@ shapely
 pydantic
 sqlalchemy
 psycopg2-binary
-dotenv
+python-dotenv
 # xml
 # beautifulsoup4
