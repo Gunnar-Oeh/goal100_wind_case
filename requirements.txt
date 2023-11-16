@@ -1,9 +1,13 @@
+requests
 jupyter
+open-mastr
+supabase-py
 pandas
 geopandas
 shapely
 pydantic
 sqlalchemy
 psycopg2-binary
+python-dotenv
 # xml
-beautifulsoup4
+# beautifulsoup4
