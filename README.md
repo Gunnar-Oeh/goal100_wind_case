@@ -24,3 +24,15 @@ pip install --upgrade pip
 pip install -r requirements.txt
 source .venv/bin/activate
 ```
+
+The .env file is build like this and saved within the root directory of the repository
+```BASH
+DB_USER=user_name                               # unquoted
+# DB_USER_READONLY= read_only_user_name         # unquoted
+DB_PASSWORD=password                            # unquoted
+# DB_PASSWORD_READONLY=read_only_password       # unquoted 
+DB_HOST="db.some_letters.supabase.co"           # quoted url
+DB_PORT=1234                                    # standard port. not 1234
+DB_NAME=db_name                                 # db_name unquoted
+SSL_CERT_PATH="/path_to/crtfile.crt"            # path to .crt file
+```
