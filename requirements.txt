@@ -10,5 +10,7 @@ sqlalchemy
 psycopg2-binary
 python-dotenv
 seaborn
+beautifulsoup4
+requests
 # xml
 # beautifulsoup4
