@@ -9,5 +9,6 @@ pydantic
 sqlalchemy
 psycopg2-binary
 python-dotenv
+seaborn
 # xml
 # beautifulsoup4
