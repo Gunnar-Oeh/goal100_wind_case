@@ -12,5 +12,6 @@ python-dotenv
 seaborn
 beautifulsoup4
 requests
+openpyxl
 # xml
 # beautifulsoup4
